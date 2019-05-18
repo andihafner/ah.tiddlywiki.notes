@@ -1,15 +1,16 @@
 created: 20190518180858715
 creator: ah
-modified: 20190518181624371
+modified: 20190518214246394
 modifier: ah
-tags: 
+tags: TableOfContents
 title: Setting up vim-mode
 type: text/vnd.tiddlywiki
 
-Install the following plugins:
-
-CodeMirror _Editor
-CodeMirror AddOn: Close Brackets
-CodeMirror AddOn: Search and Replace
-CodeMirror Keymap: Vim
-
+#Install the following plugins:
+* CodeMirror _Editor
+* CodeMirror AddOn: Close Brackets
+* CodeMirror AddOn: Search and Replace
+* CodeMirror Keymap: Vim
+#open /more/Shadows
+#look for 'cancel' which the browsers search function
+#remove the `'escape'` entry from $:/config/shortcuts/cancel-edit-tiddler

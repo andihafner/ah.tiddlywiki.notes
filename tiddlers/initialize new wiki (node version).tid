@@ -1,0 +1,9 @@
+created: 20190518210240555
+modified: 20190518214210526
+tags: TableOfContents
+title: initialize new wiki (node version)
+type: text/vnd.tiddlywiki
+
+# Type `tiddlywiki mynewwiki --init server` to create a folder for a new wiki that includes server-related components
+# Type `tiddlywiki mynewwiki --listen port=[portNumber]` to start TiddlyWiki
+# Visit http://127.0.0.1:[portNumber] in your browser
