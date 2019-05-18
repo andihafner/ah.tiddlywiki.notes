@@ -1,0 +1,15 @@
+created: 20190518180858715
+creator: ah
+modified: 20190518181624371
+modifier: ah
+tags: 
+title: Setting up vim-mode
+type: text/vnd.tiddlywiki
+
+Install the following plugins:
+
+CodeMirror _Editor
+CodeMirror AddOn: Close Brackets
+CodeMirror AddOn: Search and Replace
+CodeMirror Keymap: Vim
+
