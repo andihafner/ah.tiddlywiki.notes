@@ -1,7 +1,7 @@
 created: 20190518210240555
-modified: 20190823181155510
+modified: 20190824052953578
 tags: TiddlyWiki
-title: initialize new wiki (node version)
+title: Initialize new wiki (node version)
 type: text/vnd.tiddlywiki
 
 # Type `tiddlywiki mynewwiki --init server` to create a folder for a new wiki that includes server-related components
