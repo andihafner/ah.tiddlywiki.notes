@@ -1,8 +1,8 @@
 caption: Contents
 created: 20190518213314756
-list: [[initialize new wiki (node version)]] [[Configuring startup tiddlers]] [[Adding a TOC to the sidebar]] [[Setting up vim-mode]]
+list: [[About me]] Software ToDo
 list-after: $:/core/ui/SideBar/Open
-modified: 20190824054138073
+modified: 20190825173654752
 tags: $:/tags/SideBar
 title: TableOfContents
 type: text/vnd.tiddlywiki
