@@ -1,0 +1,13 @@
+created: 20190828172029504
+modified: 20190828175309728
+tags: [[Video Processing]]
+title: Rotating Videos
+type: text/vnd.tiddlywiki
+
+Recently I had to rotate a video counterclockwise. The following did it for me: 
+
+<<<
+ffmpeg -i [input file] -c copy -metadata:s:v:0 rotate=0 output.mp4 [output file]
+<<<
+
+--> https://askubuntu.com/questions/83711/how-can-i-rotate-a-video

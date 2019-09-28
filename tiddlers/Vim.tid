@@ -1,0 +1,7 @@
+created: 20190928140444870
+modified: 20190928140630173
+tags: [[Editors and IDEs]]
+title: Vim
+type: text/vnd.tiddlywiki
+
+*Search and replace multiple words: `:%s/foo/bar/g`

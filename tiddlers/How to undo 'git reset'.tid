@@ -1,0 +1,8 @@
+created: 20190928140234597
+modified: 20190928140330981
+tags: Git
+title: How to undo 'git reset'
+type: text/vnd.tiddlywiki
+
+*`git reset ORIG_HEAD`
+--> https://stackoverflow.com/questions/2510276/how-to-undo-git-reset

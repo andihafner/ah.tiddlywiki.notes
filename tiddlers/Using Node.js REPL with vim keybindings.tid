@@ -1,0 +1,22 @@
+created: 20190908094724200
+list: 
+modified: 20190924081952580
+tags: [[JavaScript Editors]]
+title: Using Node.js REPL with vim keybindings
+type: text/vnd.tiddlywiki
+
+If you wish Vim keybindings for your
+<a href="https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop" target="_blank" rel="noopener noreferrer">REPL</a>
+you can accomplish this as follows:
+
+* Put ``set editing-mode vi`` to your //''.inputrc''// config file (usually located at //''/home/[username]''//).
+
+* Install the <a href="https://github.com/hanslub42/rlwrap" target="_blank" rel="noopener noreferrer">rlwrap</a> with your preferred package manager.
+
+
+
+* Start your node REPL with ``NODE_NO_READLINE=1 rlwrap node``
+
+(This, however, this kills method and variable tab-completion.)
+
+*https://stackoverflow.com/questions/8718866/node-js-repl-with-vim-keybindings-and-method-variable-completion

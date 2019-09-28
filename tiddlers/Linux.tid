@@ -1,6 +1,8 @@
 created: 20190824051155167
-modified: 20190824051205465
+modified: 20190905081640986
 tags: [[Operating Systems]]
 title: Linux
 type: text/vnd.tiddlywiki
 
+*https://linuxconfig.org/disable-automatic-updates-on-ubuntu-18-04-bionic-beaver-linux
+*https://askubuntu.com/questions/25022/how-to-enable-boot-messages-to-be-printed-on-screen-during-boot-up
