@@ -1,5 +1,5 @@
 created: 20190928135014416
-modified: 20190928135910397
+modified: 20190929013651149
 tags: Git
 title: How to squash multiple commits into one
 type: text/vnd.tiddlywiki
@@ -8,4 +8,5 @@ type: text/vnd.tiddlywiki
 *`git rebase --interactive [commit number after the last entry you wish to keep]`
 *Inside the interactive editor, change leave the firt commit on `pick` and change all the other commits to `squash`
 *Follow the further instructions for the comments, i.e. delete the old comments if wished
---> https://www.freecodecamp.org/forum/t/how-to-squash-multiple-commits-into-one-with-git-squash/13231
+--> https://www.freecodecamp.org/forum/t/how-to-squash-multiple-commits-into-one-with-git-squash/13231<br />
+--> https://www.internalpointers.com/post/squash-commits-into-one-git
