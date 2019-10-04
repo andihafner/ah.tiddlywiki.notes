@@ -1,0 +1,8 @@
+created: 20191002144502832
+modified: 20191002144635697
+tags: [[Visual Studio Code]]
+title: Extensions for vscode
+type: text/vnd.tiddlywiki
+
+*https://github.com/VSCodeVim/Vim
+*https://github.com/eamodio/vscode-gitlens
