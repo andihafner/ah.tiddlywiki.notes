@@ -1,0 +1,20 @@
+created: 20191005142009633
+modified: 20191005143233500
+tags: TiddlyWiki
+title: ahStyleSheet
+type: text/vnd.tiddlywiki
+
+<style>
+/* own style definitions by andihafner.com 
+
+	You can include this css code in a Tiddler with
+    	{{ahStyleSheet}}
+
+	-> https://tiddlywiki.com/static/Transclusion%2520in%2520WikiText.html */
+    
+.ah_indent {
+	margin-left:8%;
+    margin-top:-2%;
+}
+
+</style>
