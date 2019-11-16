@@ -1,10 +1,11 @@
 created: 20190825160235463
-modified: 20190928032037598
+modified: 20191109093631313
 tags: TableOfContents
 title: ToDo
 type: text/vnd.tiddlywiki
 
-# Kreditkarte neu zuordnen (ovh, alibaba, vultr)
+# https://docs.cloud.oracle.com/iaas/Content/FreeTier/resourceref.htm
+# https://www.cloudwards.net/best-hubic-alternatives/
 # Atom Editor: Assign CTRL-Tab to switch between Tabs
 # <a href="https://aws.amazon.com/de/training/?sc_icampaign=aware_aws-training&sc_ichannel=ha&sc_icontent=awssm-1749&sc_iplace=ed&trk=ha_awssm-1749" target="blank">Amazon Certified Cloud Practitioner</a>
 # core-i7 delete usernames in history
@@ -12,4 +13,8 @@ type: text/vnd.tiddlywiki
 # Electron Apps: SMS Client
 # https://www.chinahandys.net/xiaomi-mi-max-3/
 # bash scripts --> github.com/andihafner (ah.date.time.stamp, ah.node.repl.vim etc.)
-# email an Christoph
+#https://www.tecmint.com/install-proftpd-in-centos-7/
+#https://www.tecmint.com/secure-vsftpd-using-ssl-tls-on-centos/
+#https://www.haiku-os.org/guides/virtualizing/virtualbox
+#ah.download.magazines weiter entwickeln electron app
+#https://reactos.org/
