@@ -1,5 +1,5 @@
 created: 20190825160235463
-modified: 20191109093631313
+modified: 20191208184525813
 tags: TableOfContents
 title: ToDo
 type: text/vnd.tiddlywiki
@@ -18,3 +18,5 @@ type: text/vnd.tiddlywiki
 #https://www.haiku-os.org/guides/virtualizing/virtualbox
 #ah.download.magazines weiter entwickeln electron app
 #https://reactos.org/
+#https://regexr.com/
+#https://itrig.de/index.php?/archives/2384-chkservice-ein-Tool-um-systemd-Einheiten-im-Terminal-zu-verwalten.html

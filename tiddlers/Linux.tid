@@ -1,8 +1,9 @@
 created: 20190824051155167
-modified: 20190905081640986
+modified: 20191211133046381
 tags: [[Operating Systems]]
 title: Linux
 type: text/vnd.tiddlywiki
 
 *https://linuxconfig.org/disable-automatic-updates-on-ubuntu-18-04-bionic-beaver-linux
 *https://askubuntu.com/questions/25022/how-to-enable-boot-messages-to-be-printed-on-screen-during-boot-up
+*https://itrig.de/index.php?/archives/2384-chkservice-ein-Tool-um-systemd-Einheiten-im-Terminal-zu-verwalten.html
