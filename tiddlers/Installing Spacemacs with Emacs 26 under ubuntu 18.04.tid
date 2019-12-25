@@ -1,0 +1,13 @@
+created: 20191225105243950
+modified: 20191225110742784
+tags: Emacs
+title: Installing Spacemacs with Emacs 26 under ubuntu 18.04
+type: text/vnd.tiddlywiki
+
+"""
+sudo add-apt-repository ppa:kelleyk/emacs
+sudo apt update 
+sudo apt install emacs26
+git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+sudo git clone https://github.com/adobe-fonts/source-code-pro.git /usr/share/fonts
+"""
