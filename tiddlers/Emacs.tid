@@ -1,8 +1,10 @@
 created: 20191225102024985
-modified: 20191225102847999
+modified: 20191226191155877
 tags: [[Editors and IDEs]]
 title: Emacs
 type: text/vnd.tiddlywiki
 
 *https://www.reddit.com/r/emacs/comments/8pcw5a/what_is_the_most_painless_way_to_install_emacs_26/
 *https://opensource.com/article/19/12/spacemacs
+*<a href="https://spin.atomicobject.com/2016/08/30/introduction-to-spacemacs/">Introduction to Spacemacs (by spin.atomicobject.com)</a>
+*https://develop.spacemacs.org/layers/+themes/themes-megapack/README.html
